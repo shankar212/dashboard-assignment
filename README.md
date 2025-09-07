@@ -4,6 +4,8 @@ A **React-based dynamic dashboard** built as part of the **Frontend Trainee Assi
 The dashboard replicates the provided design and includes features such as widget management, search functionality, and persistence across refresh.  
 
 ---
+<img width="1871" height="938" alt="image" src="https://github.com/user-attachments/assets/bf020253-9678-4c86-a6d0-4a5d2a430d9d" />
+
 
 ## 🚀 Features  
 - 📌 Dynamic widgets with add/remove functionality  
