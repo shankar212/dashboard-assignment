@@ -26,7 +26,7 @@ The dashboard replicates the provided design and includes features such as widge
 
 ### 1️⃣ Clone Repository  
 ```bash
-git clone https://github.com/yourusername/dashboard-assignment.git
+git clone https://github.com/shankar212/dashboard-assignment.git
 cd dashboard-assignment
 ```
 
